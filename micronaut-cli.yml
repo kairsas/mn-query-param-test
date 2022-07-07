@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [amazon-api-gateway, annotation-api, app-name, aws-lambda, jackson-databind, junit, kotlin, kotlin-application, logback, maven, readme, shade, yaml]
